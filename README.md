@@ -4,7 +4,7 @@ Software Group Project 1
 
 ## Project Overview
 
-This project, titled **"Prediction of Cases and Healthcare Facility Using Machine Learning"**, aims to develop a model to predict ventilator and intubation requirements for COVID-19 patients. The project was carried out by **Vansh Desai (19CE018)** under the guidance of **Prof. Mayuri Popat** at the **U & P U. Patel Department of Computer Engineering, Chandubhai S. Patel Institute of Technology (CSPIT), CHARUSAT**.
+This project, titled **"Prediction of Cases and Healthcare Facility Using Machine Learning"**, aims to develop a model to predict ventilator and intubation requirements for COVID-19 patients.This was first work with ML of Mexico Data.The project was carried out by **Vansh Desai (19CE018)** under the guidance of **Prof. Mayuri Popat** at the **U & P U. Patel Department of Computer Engineering, Chandubhai S. Patel Institute of Technology (CSPIT), CHARUSAT**.
 
 ## Abstract
 
