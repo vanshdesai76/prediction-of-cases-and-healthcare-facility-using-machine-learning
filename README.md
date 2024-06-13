@@ -37,16 +37,9 @@ The COVID-19 pandemic has caused a global health and economic crisis. Predicting
 
 
 
-## Usage
-
-1. **Clone the Repository**: Clone the project repository to your local machine.
-2. **Set Up the Environment**: Ensure you have the required software and libraries installed (ANACONDA Python 3.7, Google Colab, FBPROPHET Library, Matplotlib Library, IMBLERN Library).
-3. **Run the Models**: Follow the instructions in the project documentation to preprocess the data, train the models, and evaluate their performance.
-4. **Analyze Results**: Use the provided tools to analyze the results and visualize the predictions.
-
 ## Contact
 
-For any queries or further information, please contact **Vansh Desai** at [vansh76desai@gmail.com].
+For any queries or further information, please contact **Vansh Desai** at vansh76desai@gmail.com.
 
 ---
 
