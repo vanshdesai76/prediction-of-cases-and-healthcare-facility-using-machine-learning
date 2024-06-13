@@ -35,11 +35,7 @@ The COVID-19 pandemic has caused a global health and economic crisis. Predicting
 - **Self-Analysis of Project Viabilities**: Statistical methods like F1 score and confusion matrix to evaluate the model's performance.
 - **Summary of Project Work**: Contribution to hospitals and policymakers in resource distribution and motivation for standardizing and sharing data.
 
-### 7. Screenshots
-- Visual representations of the model's predictions and results.
 
-### 8. References
-- Citations and sources used throughout the project, including WHO, Johns Hopkins University, and relevant articles.
 
 ## Usage
 
