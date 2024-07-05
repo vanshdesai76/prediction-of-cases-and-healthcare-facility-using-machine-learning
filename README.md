@@ -1,6 +1,6 @@
 # PREDICTION-OF-CASES-AND-HEALTHCARE-FECILITY-USING-MACHINE-LEARNING
 Software Group Project 1
-# ReadMe for Prediction of Cases and Healthcare Facility Using Machine Learning
+# Prediction of Cases and Healthcare Facility Using Machine Learning
 
 ## Project Overview
 
